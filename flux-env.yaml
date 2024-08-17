@@ -1,0 +1,19 @@
+name: flux-env
+channels:
+  - nvidia
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - accelerate
+    - git+https://github.com/huggingface/diffusers.git
+    - invisible_watermark
+    - torch
+    - transformers==4.42.4
+    - xformers
+    - sentencepiece
+    - gradio
+    - protobuf #5.27.3
+    - optimum-quanto
