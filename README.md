@@ -2,10 +2,6 @@
 
 Flux.1 typically requires a 24GB GPU, but you can run w/ 8bit precision and achieve ~ 20 sec/image using 14GB.
 
-
-Running flux takes a 24gb card..
-But you can adjust to 8bit and get it doing <20 sec on 14GB.
-
 Check out run_lite.py for a lightweight version, or run a Gradio app as shown below.
 
 
