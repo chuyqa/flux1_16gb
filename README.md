@@ -10,13 +10,11 @@ Check out run_lite.py for a lightweight version, or run a Gradio app as shown be
 Using Conda:
 
 ```bash
-Copy code
 conda env create -f flux-env.yaml
 ```
 Or with pip:
 
 ```bash
-Copy code
 pip install -r reqs.txt
 ```
 
