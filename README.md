@@ -36,7 +36,7 @@ python run_lite.py
 ### Performace
 ~ 20 sec / image
 
-<img src=flux_003.png width=30%><img src=flux_002.png width=30%><img src=flux_001.png width=30%>
+<img src=flux_004.png width=30%><img src=flux_002.png width=30%><img src=flux_001.png width=30%>
 
 
 
